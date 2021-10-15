@@ -11,6 +11,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can play the guitar
 
+<br/> [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+<br/> [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+<br/> [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
+<br/> [![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)
+
 <!--
 **nana562/nana562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
