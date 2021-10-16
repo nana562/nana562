@@ -6,7 +6,7 @@
 - 🌱 I’m currently pursing MPhil. Computer Engineering at the Kwame Nkrumah University of Science and Technology
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with mentors to guide me on my programming journey and socialize with people
-- 💬 Ask me about ...
+- 💬 Ask me about anything
 - 📫 How to reach me: opokugideon562@gmail.com or https://www.linkedin.com/in/gideon-opoku-234266138/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can play the guitar
