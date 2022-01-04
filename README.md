@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, My name is Gideon</h1>
 
-###  I'm a Software Engineer opened to learning technology and opportunities around the world.
+###  A Software Engineer who is opened to learning technology and opportunities around the world.
 
 - 🔭  I’m interested in Node Js,Typescript, Express, React , MongoDB, Postgress, Python, AI and  ML 
 - 🌱 I’m currently pursing MPhil. Computer Engineering at the Kwame Nkrumah University of Science and Technology
