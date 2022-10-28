@@ -2,7 +2,7 @@
 
 ###  A Software Engineer who is opened to learning technology and opportunities around the world.
 
-- 🔭  I’m interested in Node Js,Typescript, Express, React , MongoDB, Postgress, Python, AI and  ML 
+- 🔭  I’m interested in Node Js,Typescript, Python, React , MongoDB, AI, Blockchain, Solidity, Smart Contracts and DApps 
 - 🌱 I’m currently pursing MPhil. Computer Engineering at the Kwame Nkrumah University of Science and Technology
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with mentors to guide me on my programming journey and socialize with people
